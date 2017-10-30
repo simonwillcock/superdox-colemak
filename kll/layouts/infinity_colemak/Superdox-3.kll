@@ -1,0 +1,44 @@
+Name = "Superdox Colemak";
+Layout = "Colemak";
+Base = "Blank";
+Version = "0.1";
+Author = "Simon Willcock";
+KLL = "0.3c";
+Date = "2017-10-30";
+Generator = "KIICONF 0.2";
+Variant = "";
+
+
+U"T" : U"T";
+U"R" : U"R";
+U"E" : U"E";
+U"W" : U"W";
+U"Q" : U"Q";
+U"G" : U"G";
+U"F" : U"F";
+U"D" : U"D";
+U"S" : U"S";
+U"A" : U"A";
+U"B" : U"B";
+U"V" : U"V";
+U"C" : U"C";
+U"X" : U"X";
+U"Z" : U"Z";
+U"Y" : U"Y";
+U"U" : U"U";
+U"I" : U"I";
+U"O" : U"O";
+U"P" : U"P";
+U"H" : U"H";
+U"J" : U"J";
+U"K" : U"J";
+U"L" : U"L";
+U"SEMICOLON" : U"SEMICOLON";
+U"N" : U"N";
+U"M" : U"M";
+U"COMMA" : U"COMMA";
+U"PERIOD" : U"PERIOD";
+U"SLASH" : U"SLASH";
+
+
+
