@@ -1,4 +1,8 @@
-# Configuring System to compile Ergodox Infinity firmware
+# Superdox
+
+![](layout.PNG)
+
+### Configuring System to compile Ergodox Infinity firmware
 
 1. Refer to the [documentation](https://github.com/kiibohd/controller/wiki) in order to set up your system for compilation. If on Windows, I suggest using the Windows Subsystem Linux and following the [Linux guide](https://github.com/kiibohd/controller/wiki/Linux-Setup)
 1. Clone the [kiibohd controller repo](https://github.com/kiibohd/controller/tree/master/Keyboards)
